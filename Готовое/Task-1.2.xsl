@@ -6,6 +6,6 @@
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="Procedure[not(Param)]|Function[not(Param)]" />
-
+    <xsl:template match="@java_package[. = '']">
+    </xsl:template>
 </xsl:stylesheet>

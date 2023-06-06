@@ -9,8 +9,6 @@
 
     <xsl:template match="/Objects">
         <xsl:copy>
-            <xsl:apply-templates select="@*"/>
-            <xsl:apply-templates select="@target_type"/>
             <xsl:apply-templates select="node()[not(self::target_type)]"/>
         </xsl:copy>
     </xsl:template>
