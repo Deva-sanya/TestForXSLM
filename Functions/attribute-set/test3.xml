@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="attrset.xsl" ?>
+<book>
+    <chapter>
+        <heading>The First Heading</heading>
+    </chapter>
+    <chapter>
+        <heading>The Next Heading</heading>
+    </chapter>
+</book>
