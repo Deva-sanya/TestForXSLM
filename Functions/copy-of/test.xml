@@ -1,0 +1,22 @@
+<values>
+    <boolean>false</boolean>
+    <string>text</string>
+    <number>3.14</number>
+    <node-set>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </node-set>
+    <tree>
+        text
+        <root>
+            text
+            <branch>
+                text
+                <leaf/>
+                <leaf/>
+            </branch>
+            <leaf/>
+        </root>
+    </tree>
+</values>

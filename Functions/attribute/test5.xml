@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="attrcopied.xsl" ?>
+<root>
+    <myElement>My Data</myElement>
+    <myElement>My Other Data</myElement>
+</root>

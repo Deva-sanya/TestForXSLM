@@ -5,7 +5,6 @@
         <xsl:copy>
             <xsl:if test="count(@Name) > 0">
                 <xsl:apply-templates select="@Name"/>
-                <br></br>
                 <xsl:apply-templates select="@pos"/>
             </xsl:if>
         </xsl:copy>

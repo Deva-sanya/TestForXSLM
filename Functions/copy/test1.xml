@@ -1,0 +1,9 @@
+<a>
+    text
+    <b attr="value" />
+    <c />
+    <d>
+        text
+        <e />
+    </d>
+</a>
